@@ -1,4 +1,4 @@
-X (Twitter) Data Extraction & Text Normalization Pipeline
+X (Twitter) Data Extraction & Text Normalization Pipeline - Free tier 100 read post al mes
 
 Este repositorio forma parte de mi portafolio profesional y presenta un pipeline de extracción, limpieza y estructuración de datos a partir de la API v2 de X (antes Twitter), diseñado bajo principios de Ingeniería de Datos y buenas prácticas para análisis, búsqueda y almacenamiento posterior (por ejemplo, Elasticsearch).
 El proyecto demuestra cómo recolectar posts recientes de X usando autenticación segura, aplicar normalización de texto, y generar datasets listos para análisis exploratorio, dashboards o motores de búsqueda.
